@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="FlyBorgataV2">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=BGTAUTLSQL;Initial Catalog=FlyBorgataV2</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>e19a8e24-3ec8-4caa-8e0d-b60779743472</DataSourceID>
+</RptDataSource>

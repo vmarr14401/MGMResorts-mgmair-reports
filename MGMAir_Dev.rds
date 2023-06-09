@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="MGMAir_Dev">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=EC2AMAZ-S4S2BEI;Initial Catalog=MGMAir_Dev</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>7c4581f6-be0e-434c-b170-6411494255ef</DataSourceID>
+</RptDataSource>

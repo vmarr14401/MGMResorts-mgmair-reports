@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBAdmin">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=BGTABIWASP;Initial Catalog=DBAdmin</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>51776601-2d4a-4597-a001-69f482e000d9</DataSourceID>
+</RptDataSource>
